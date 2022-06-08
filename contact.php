@@ -1,15 +1,15 @@
 <?php
-error_reporting(0);
-include "conexao.php";
+error_reporting(0); 
+/* include "conexao.php";
 include "salvar.php";
-
+  */
 ?>
 
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
 
-     <title>Digital Trend Contact</title>
+     <title>Preenchimento do cadastro</title>
 <!--
 
 DIGITAL TREND
@@ -40,7 +40,7 @@ https://templatemo.com/tm-538-digital-trend
     <nav class="navbar navbar-expand-lg position-absolute">
         <div class="container">
           <a class="navbar-brand" href="index.html">
-              <i class="fa fa-line-chart"></i>
+              <i class="fa fa-book"></i>
               Web Study's
             </a>
 
