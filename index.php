@@ -56,7 +56,7 @@ https://templatemo.com/tm-538-digital-trend
                               <a href="blog.html" class="nav-link">Blog</a>
                          </li>
                          <li class="nav-item">
-                              <a href="contact.html" class="nav-link contact">Contact</a>
+                              <a href="contact.php" class="nav-link contact">Contact</a>
                          </li>
                     </ul>
                </div>
