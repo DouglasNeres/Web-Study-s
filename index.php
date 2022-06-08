@@ -56,7 +56,7 @@ https://templatemo.com/tm-538-digital-trend
                               <a href="blog.html" class="nav-link">Blog</a>
                          </li>
                          <li class="nav-item">
-                              <a href="contact.html" class="nav-link contact">Contact</a>
+                              <a href="contact.php" class="nav-link contact">Contact</a>
                          </li>
                     </ul>
                </div>
@@ -75,7 +75,7 @@ https://templatemo.com/tm-538-digital-trend
                               <h1 class="text-white" data-aos="fade-up">Web Study's com a melhor e única experiência
                                    para você</h1>
 
-                              <a href="contact.html" class="custom-btn btn-bg btn mt-3" data-aos="fade-up"
+                              <a href="contact.php" class="custom-btn btn-bg btn mt-3" data-aos="fade-up"
                                    data-aos-delay="100">Preencher cadastro</a>
 
                               <strong class="d-block py-3 pl-5 text-white" data-aos="fade-up" data-aos-delay="200"><i
