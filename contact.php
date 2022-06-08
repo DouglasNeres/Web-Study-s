@@ -41,7 +41,7 @@ https://templatemo.com/tm-538-digital-trend
         <div class="container">
           <a class="navbar-brand" href="index.html">
               <i class="fa fa-line-chart"></i>
-              Digital Trend
+              Web Study's
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
