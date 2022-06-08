@@ -1,8 +1,7 @@
 <?php
 error_reporting(0);
 include "conexao.php";
-include "salvar.php";
-
+ include "salvar.php"; 
 ?>
 
 <!DOCTYPE html>

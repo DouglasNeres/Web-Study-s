@@ -9,7 +9,9 @@
     mysqli_query($conexaobd , "INSERT INTO tabela(nome , email , senha , datinha ) VALUES('$nome' ,'$email', '$senha' , '$data')");
 
   
+/* if (){
 
+} */
    
 
 ?>
