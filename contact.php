@@ -1,3 +1,10 @@
+<?php
+error_reporting(0);
+include "conexao.php";
+include "salvar.php";
+
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -71,7 +78,7 @@ https://templatemo.com/tm-538-digital-trend
 
                       <h1 class="mb-4">Digite os seus <strong>Dados</strong> para se cadastrar</h1>
 
-                      <p>or <a href="mailto:hello@company.com">hello@company.com</a></p>
+                      <p>or email us at <a href="mailto:hello@company.com">hello@company.com</a></p>
                       <p>Please follow our <a rel="nofollow" href="https://templatemo.com/contact">contact page</a> to <strong>setup</strong> the contact form.</p>
                     </div>
 
@@ -90,7 +97,7 @@ https://templatemo.com/tm-538-digital-trend
                           </div>
 
                           <div class="col-lg-6 col-12">
-                            <input type="password" class="form-control" name="email" placeholder="Senha">
+                            <input type="password" class="form-control" name="senha" placeholder="Senha">
                           </div>
                           <div class="col-lg-6 col-12">
                             
@@ -123,66 +130,73 @@ https://templatemo.com/tm-538-digital-trend
      </div>
 
 
-    <footer class="site-footer">
+     <footer class="site-footer">
       <div class="container">
-        <div class="row">
+           <div class="row">
 
-          <div class="col-lg-5 mx-lg-auto col-md-8 col-10">
-            <h1 class="text-white" data-aos="fade-up" data-aos-delay="100">We make creative <strong>brands</strong> only.</h1>
-          </div>
+                <div class="col-lg-5 mx-lg-auto col-md-8 col-10">
+                     <h1 class="text-white" data-aos="fade-up" data-aos-delay="100">Os Melhores <strong>Conteúdos
+                          </strong>pra <u>você</u>.</h1>
+                </div>
 
-          <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="200">
-            <h4 class="my-4">Contact Info</h4>
+                <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="200">
+                     <h4 class="my-4">Nosso Contato</h4>
 
-            <p class="mb-1">
-              <i class="fa fa-phone mr-2 footer-icon"></i> 
-              +99 080 070 4224
-            </p>
+                     <p class="mb-1">
+                          <i class="fa fa-phone mr-2 footer-icon"></i>
+                          +55 07 077 007
+                     </p>
 
-            <p>
-              <a href="#">
-                <i class="fa fa-envelope mr-2 footer-icon"></i>
-                hello@company.com
-              </a>
-            </p>
-          </div>
+                     <p>
+                          <a href="https://mail.google.com/mail/u/0/#inbox">
+                               <i class="fa fa-envelope mr-2 footer-icon"></i>
+                               Curlys@dev.com
+                          </a>
+                     </p>
+                </div>
 
-          <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="300">
-            <h4 class="my-4">Our Studio</h4>
+                <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="300">
+                     <h4 class="my-4">Endereço</h4>
 
-            <p class="mb-1">
-              <i class="fa fa-home mr-2 footer-icon"></i> 
-              Av. Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ, Brazil
-            </p>
-          </div>
+                     <p class="mb-1">
+                          <a href="https://goo.gl/maps/ZjxQ9YYtfb2QCWom9" target="_blank" rel="noopener noreferrer">
+                               <i class="fa fa-home mr-2 footer-icon"></i>
+                               R. Dr. Júlio Lima, 2194 - Fatima II, Crateús - CE, Brasil</a>
+                     </p>
+                </div>
 
-          <div class="col-lg-4 mx-lg-auto text-center col-md-8 col-12" data-aos="fade-up" data-aos-delay="400">
-            <p class="copyright-text">Copyright &copy; 2020 Your Company
-            <br>
-            <a rel="nofollow noopener" href="https://templatemo.com">Design: TemplateMo</a></p>
-          </div>
+                <div class="col-lg-4 mx-lg-auto text-center col-md-8 col-12" data-aos="fade-up"
+                     data-aos-delay="400">
+                     <p class="copyright-text">Web System &copy; EEEP MANOEL MANO <br> 2° ano "B" 2022
+                          <br><br>
+                          <a rel="nofollow noopener" href="https://abre.bio/Curlys.dev" target="_blank"
+                               rel="noopener noreferrer">Design: Curlys.dev</a>
+                     </p>
+                </div>
 
-          <div class="col-lg-4 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="500">
-            
-            <ul class="footer-link">
-              <li><a href="#">Stories</a></li>
-              <li><a href="#">Work with us</a></li>
-              <li><a href="#">Privacy</a></li>
-            </ul>
-          </div>
+                <div class="col-lg-4 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="500">
 
-          <div class="col-lg-3 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="600">
-            <ul class="social-icon">
-              <li><a href="#" class="fa fa-instagram"></a></li>
-              <li><a href="#" class="fa fa-twitter"></a></li>
-              <li><a href="#" class="fa fa-dribbble"></a></li>
-              <li><a href="#" class="fa fa-behance"></a></li>
-            </ul>
-          </div>
+                     <ul class="footer-link">
+                          <li><a href="#">História</a></li>
+                          <li><a href="#">Trabalho</a></li>
+                          <li><a href="#">Privacidade</a></li>
+                     </ul>
+                </div>
 
-        </div>
+                <div class="col-lg-3 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="600">
+                     <ul class="social-icon">
+                          <li><a href="https://www.instagram.com/eeepmanoelmano/" target="_blank"
+                                    rel="noopener noreferrer" class="fa fa-instagram"></a></li>
+                          <li><a href="#" class="fa fa-github"></a></li>
+                          <li><a href="#" class="fa fa-linkedin"></a></li>
+                          <li><a href="#" class="fa fa-facebook"></a></li>
+                     </ul>
+                </div>
+
+           </div>
       </div>
-    </footer>
+ </footer>
+
 
 
      <!-- SCRIPTS -->
