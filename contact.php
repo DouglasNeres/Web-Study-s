@@ -52,10 +52,10 @@ https://templatemo.com/tm-538-digital-trend
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="index.html#about" class="nav-link">Studio</a>
+                        <a href="index.html#about" class="nav-link">Site</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.html#project" class="nav-link">Our Works</a>
+                        <a href="index.html#project" class="nav-link">Matérias</a>
                     </li>
                     <li class="nav-item">
                         <a href="blog.html" class="nav-link">Blog</a>
@@ -78,7 +78,7 @@ https://templatemo.com/tm-538-digital-trend
 
                       <h1 class="mb-4">Digite os seus <strong>Dados</strong> para se cadastrar</h1>
 
-                      <p>or email us at <a href="mailto:hello@company.com">hello@company.com</a></p>
+                      <p>or email us at <a href="mailto:hello@company.com">Curlys@dev.com</a></p>
                       <p>Please follow our <a rel="nofollow" href="https://templatemo.com/contact">contact page</a> to <strong>setup</strong> the contact form.</p>
                     </div>
 
