@@ -12,10 +12,11 @@ error_reporting(0);
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <title>Tabela de Dados</title>
 </head>
 <body>
-  
+<input id="myInput" type="text" placeholder="Search..">
     <table class="table table-success table-striped">
   <thead>
     <tr>
@@ -39,6 +40,7 @@ error_reporting(0);
   </tbody>
   <?php } ?>
 </table>
-    
+<script src="tabela.js"></script>    
 </body>
+
 </html>
