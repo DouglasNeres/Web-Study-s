@@ -1,8 +1,8 @@
 <?php
 error_reporting(0); 
-/* include "conexao.php";
-include "salvar.php";
-  */
+ /* include "conexao.php"; */
+/* include "salvar.php"; */
+  
 ?>
 
 <!DOCTYPE html>
@@ -86,7 +86,7 @@ https://templatemo.com/tm-538-digital-trend
                     
                     <!-- Follow https://templatemo.com/contact page to setup your own contact form -->
                     
-                      <form action="#" method="post" class="contact-form" data-aos="fade-up" data-aos-delay="300" role="form">
+                      <form action="salvar.php" method="post" class="contact-form" data-aos="fade-up" data-aos-delay="300" role="form">
                         <div class="row">
                           <div class="col-lg-6 col-12">
                             <input type="text" class="form-control" name="name" placeholder="Name">

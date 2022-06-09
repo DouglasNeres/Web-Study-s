@@ -5,13 +5,10 @@
   $nome = $_POST["name"];
   $email = $_POST["email"];
   $senha = $_POST["senha"];
-  $data = $_POST["datiha"];
-    mysqli_query($conexaobd , "INSERT INTO tabela(nome , email , senha , datinha ) VALUES('$nome' ,'$email', '$senha' , '$data')");
+  $datas = $_POST["datinha"];
 
-  
-/* if (){
+  $salvar = mysqli_query($conexaobd , "INSERT INTO tabela(nome , email , senha , datinha ) VALUES('$nome' ,'$email', '$senha' , '$datas')");
 
-} */
-   
-
-?>
+  if ($salvar) {
+		header('location: contact.php');
+	}
