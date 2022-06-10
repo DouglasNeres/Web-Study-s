@@ -78,9 +78,11 @@ https://templatemo.com/tm-538-digital-trend
 
                       <h1 class="mb-4">Digite os seus <strong>Dados</strong> para se cadastrar</h1>
 
-                      <p>or email us at <a href="mailto:hello@company.com">Curlys@dev.com</a></p>
-                      <p>Please follow our <a rel="nofollow" href="https://templatemo.com/contact">contact page</a> to <strong>setup</strong> the contact form.</p>
+
+                      <p>Para mais informações acesse <a href="mailto:hello@company.com"><u>Curlys@dev.com</u></a></p>
+                      <p>Fale conosco em <a rel="nofollow" href=""> Nossas Redes</a> e nos <strong>acompanhe</strong>.</p>
                     </div>
+
 
                     <div class="col-lg-8 mx-auto col-md-10 col-12">
                     
