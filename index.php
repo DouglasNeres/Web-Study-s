@@ -34,7 +34,7 @@ https://templatemo.com/tm-538-digital-trend
      <!-- MENU BAR -->
      <nav class="navbar navbar-expand-lg">
           <div class="container">
-               <a class="navbar-brand" href="index.html">
+               <a class="navbar-brand" href="index.php">
                     <i class="fa fa-book"></i>
                     Web Study's
                </a>

@@ -39,7 +39,7 @@ https://templatemo.com/tm-538-digital-trend
      <!-- MENU BAR -->
     <nav class="navbar navbar-expand-lg position-absolute">
         <div class="container">
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="index.php">
               <i class="fa fa-book"></i>
               Web Study's
             </a>
@@ -61,7 +61,7 @@ https://templatemo.com/tm-538-digital-trend
                         <a href="blog.html" class="nav-link">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a href="contact.html" class="nav-link active contact">Contact</a>
+                        <a href="contact.php" class="nav-link active contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -127,11 +127,11 @@ https://templatemo.com/tm-538-digital-trend
 	3. Click "Share" and choose "Embed map" tab
 	4. Copy only URL and paste it within the src="" field below
 -->
-     <div class="google-map" data-aos="zoom-in">
+<!--      <div class="google-map" data-aos="zoom-in">
        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11196.961132529668!2d-43.38581128725845!3d-23.011063013218724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bdb695cd967b7%3A0x171cdd035a6a9d84!2sAv.%20L%C3%BAcio%20Costa%20-%20Barra%20da%20Tijuca%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%20Brazil!5e0!3m2!1sen!2sth!4v1568649412152!5m2!1sen!2sth" width="1920" height="600" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
      </div>
 
-
+ -->
      <footer class="site-footer">
       <div class="container">
            <div class="row">
