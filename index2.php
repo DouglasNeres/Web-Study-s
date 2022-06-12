@@ -34,7 +34,7 @@ https://templatemo.com/tm-538-digital-trend
      <!-- MENU BAR -->
      <nav class="navbar navbar-expand-lg">
           <div class="container">
-               <a class="navbar-brand" href="index.php">
+               <a class="navbar-brand" href="index2.php">
                     <i class="fa fa-book"></i>
                     Web Study's
                </a>
@@ -53,10 +53,10 @@ https://templatemo.com/tm-538-digital-trend
                               <a href="#project" class="nav-link smoothScroll">Matérias</a>
                          </li>
                          <li class="nav-item">
-                              <a href="blog.html" class="nav-link">Blog</a>
+                              <a href="blog.html" class="nav-link">Sobre Nós</a>
                          </li>
                          <li class="nav-item">
-                              <a href="contact.php" class="nav-link contact">Contact</a>
+                              <a href="contact.php" class="nav-link contact">Painel ADMIN</a>
                          </li>
                     </ul>
                </div>
