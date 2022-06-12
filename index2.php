@@ -47,16 +47,16 @@ https://templatemo.com/tm-538-digital-trend
                <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ml-auto">
                          <li class="nav-item">
-                              <a href="#about" class="nav-link smoothScroll">Site</a>
-                         </li>
-                         <li class="nav-item">
                               <a href="#project" class="nav-link smoothScroll">Matérias</a>
                          </li>
                          <li class="nav-item">
-                              <a href="blog.html" class="nav-link">Sobre Nós</a>
+                              <a href="#footer" class="nav-link smoothScroll">Sobre</a>
                          </li>
                          <li class="nav-item">
-                              <a href="contact.php" class="nav-link contact">Painel ADMIN</a>
+                              <a href="blog-detail.html" class="nav-link">Conheça Melhor</a>
+                         </li>
+                         <li class="nav-item">
+                              <a href="tabela.php" class="nav-link contact">Painel ADMIN</a>
                          </li>
                     </ul>
                </div>
@@ -75,8 +75,8 @@ https://templatemo.com/tm-538-digital-trend
                               <h1 class="text-white" data-aos="fade-up">Web Study's com a melhor e única experiência
                                    para você</h1>
 
-                              <a href="contact.php" class="custom-btn btn-bg btn mt-3" data-aos="fade-up"
-                                   data-aos-delay="100">Preencher cadastro</a>
+                              <a href="#project" class="custom-btn btn-bg btn mt-3" data-aos="fade-up"
+                                   data-aos-delay="100">Acesso aos materiais</a>
 
                               <strong class="d-block py-3 pl-5 text-white" data-aos="fade-up" data-aos-delay="200"><i
                                         class="fa fa-phone mr-2"></i> +55 07 077 007</strong>
@@ -147,7 +147,7 @@ https://templatemo.com/tm-538-digital-trend
                                         <small>Matérias</small>
 
                                         <h3>
-                                             <a href="project-detail.html">
+                                             <a href="blogLinguaguens.html">
                                                   <span>LINGUAGENS</span>
                                                   <i class="fa fa-angle-right project-icon"></i>
                                              </a>
@@ -179,7 +179,7 @@ https://templatemo.com/tm-538-digital-trend
                                         <small>Matérias</small>
 
                                         <h3>
-                                             <a href="project-detail.html">
+                                             <a href="blogNatureza.html">
                                                   <span>CIÊNCIAS DA NATUREZA</span>
                                                   <i class="fa fa-angle-right project-icon"></i>
                                              </a>
@@ -195,7 +195,7 @@ https://templatemo.com/tm-538-digital-trend
                                         <small>Matérias</small>
 
                                         <h3>
-                                             <a href="project-detail.html">
+                                             <a href="blogHumanas.html">
                                                   <span>CIÊNCIAS HUMANAS</span>
                                                   <i class="fa fa-angle-right project-icon"></i>
                                              </a>
@@ -247,7 +247,7 @@ https://templatemo.com/tm-538-digital-trend
  -->
 
      <footer class="site-footer">
-          <div class="container">
+          <div class="container" id="footer">
                <div class="row">
 
                     <div class="col-lg-5 mx-lg-auto col-md-8 col-10">

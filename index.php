@@ -53,7 +53,10 @@ https://templatemo.com/tm-538-digital-trend
                               <a href="#project" class="nav-link smoothScroll">Matérias</a>
                          </li>
                          <li class="nav-item">
-                              <a href="blog.html" class="nav-link">Blog</a>
+                              <a href="#footer" class="nav-link smoothScroll">Sobre</a>
+                         </li>
+                         <li class="nav-item">
+                              <a href="blog.html" class="nav-link">Conheça Melhor</a>
                          </li>
                          <li class="nav-item">
                               <a href="contact.php" class="nav-link contact">Contact</a>
@@ -244,7 +247,7 @@ https://templatemo.com/tm-538-digital-trend
                </div>
           </div>
      </section>
-
+<!-- 
      <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -261,11 +264,11 @@ https://templatemo.com/tm-538-digital-trend
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 
      <footer class="site-footer">
-          <div class="container">
+          <div class="container" id="footer">
                <div class="row">
 
                     <div class="col-lg-5 mx-lg-auto col-md-8 col-10">
