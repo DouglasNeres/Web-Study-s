@@ -158,7 +158,7 @@ https://templatemo.com/tm-538-digital-trend
                                    </div>
                               </div>
 
-
+<!-- 
                               <div class="item project-wrapper" data-aos="fade-up">
                                    <img src="images/project/Math.jpg" class="img-fluid" alt="project image">
 
@@ -173,7 +173,7 @@ https://templatemo.com/tm-538-digital-trend
                                         </h3>
                                    </div>
                               </div>
-
+ -->
 
                               <div class="item project-wrapper" data-aos="fade-up">
                                    <img src="images/project/nature.jpg" class="img-fluid" alt="project image">
@@ -183,7 +183,7 @@ https://templatemo.com/tm-538-digital-trend
 
                                         <h3>
                                              <a href="contact.php">
-                                                  <span>CIÊNCIAS DA NATUREZA</span>
+                                                  <span>CIÊNCIAS EXATAS</span>
                                                   <i class="fa fa-angle-right project-icon"></i>
                                              </a>
                                         </h3>
