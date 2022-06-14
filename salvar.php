@@ -14,6 +14,6 @@
     if($tipo == 'admin'){
       header('location: admin.php');
     }else {
-		  header('location: contact.php');
+		  header('location: index2.php');
     }
 	}

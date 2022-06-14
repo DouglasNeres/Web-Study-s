@@ -24,19 +24,20 @@
       <tr>
         <th scope="col">ID</th>
         <th scope="col">NOME</th>
-        <th scope="col">SENHA</th>
+        <th scope="col">Email</th>
         <th scope="col">DATA DE NASCIMENTO</th>
+        <th scope="col">SENHA</th>
       </tr>
     </thead>
     <?php while ($usuario = mysqli_fetch_assoc($listar)) { ?>
       <tbody id="myTable">
         <tr>
-          <th scope="row">1</th>
-          <td><?php echo $usuario['id']; ?></td>
+          <th scope="row"><?php echo $usuario['id']; ?></th>
           <td><?php echo $usuario['nome']; ?></td>
           <td><?php echo $usuario['email']; ?></td>
           <td><?php echo $usuario['datinha']; ?></td>
           <td><?php echo $usuario['senha']; ?></td>
+          <td></td>
         </tr>
 
       </tbody>
