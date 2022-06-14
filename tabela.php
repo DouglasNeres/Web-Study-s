@@ -37,7 +37,7 @@
           <td><?php echo $usuario['email']; ?></td>
           <td><?php echo $usuario['datinha']; ?></td>
           <td><?php echo $usuario['senha']; ?></td>
-          <td></td>
+          <td><a href="delete.php?id=<?=$usuario['id']?>" class="btn btn-danger">Delete</a></td>
         </tr>
 
       </tbody>
