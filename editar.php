@@ -7,6 +7,4 @@ include "salvar.php";
 $id = $_GET['id'];
 
 
-
-
 ?>

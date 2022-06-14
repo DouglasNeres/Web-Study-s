@@ -213,7 +213,6 @@ https://templatemo.com/tm-538-digital-trend
           </div>
      </section>
 
-
      <!-- TESTIMONIAL -->
      <section class="testimonial section-padding">
           <div class="container">
