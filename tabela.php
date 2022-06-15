@@ -1,6 +1,7 @@
 |<?php
   error_reporting(0);
   include "conexao.php";
+  include "editarBD.php";
   $listar = mysqli_query($conexaobd, "SELECT * FROM tabela");
 
   ?>
@@ -38,6 +39,7 @@
           <td><?php echo $usuario['datinha']; ?></td>
           <td><?php echo $usuario['senha']; ?></td>
           <td><a href="delete.php?id=<?=$usuario['id']?>" class="btn btn-danger">Delete</a></td>
+          <td><a href="editar.php?id=<?php echo $usuario['id']; ?>" class="btn btn-warning">Edit</a></td>
         </tr>
 
       </tbody>
