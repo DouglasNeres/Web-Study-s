@@ -26,7 +26,6 @@ https://templatemo.com/tm-538-digital-trend
 
      <!-- MAIN CSS -->
      <link rel="stylesheet" href="css/templatemo-digital-trend.css">
-
 </head>
 
 <body>
