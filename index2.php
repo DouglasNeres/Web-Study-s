@@ -153,24 +153,7 @@ https://templatemo.com/tm-538-digital-trend
                                         </h3>
                                    </div>
                               </div>
-<!-- 
 
-                              <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/Math.jpg" class="img-fluid" alt="project image">
-
-                                   <div class="project-info">
-                                        <small>Matérias</small>
-
-                                        <h3>
-                                             <a href="project-detail.html">
-                                                  <span>MATEMÁTICA</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
-
- -->
                               <div class="item project-wrapper" data-aos="fade-up">
                                    <img src="images/project/nature.jpg" class="img-fluid" alt="project image">
 
@@ -189,7 +172,6 @@ https://templatemo.com/tm-538-digital-trend
                               <div class="item project-wrapper" data-aos="fade-up">
                                    <img src="images/project/human.jpg" class="img-fluid" alt="project image">
 
-
                                    <div class="project-info">
                                         <small>Matérias</small>
 
@@ -201,49 +183,11 @@ https://templatemo.com/tm-538-digital-trend
                                         </h3>
                                    </div>
                               </div>
-
                          </div>
                     </div>
-
                </div>
           </div>
      </section>
-
-
-     <!-- TESTIMONIAL -->
-<!--      <section class="testimonial section-padding">
-          <div class="container">
-               <div class="row">
-
-                    <div class="col-lg-6 col-md-5 col-12">
-                         <div class="contact-image" data-aos="fade-up">
-
-                              <img src="images/female-avatar.png" class="img-fluid" alt="website">
-                         </div>
-                    </div>
-
-                    <div class="col-lg-6 col-md-7 col-12">
-                         <h4 class="my-5 pt-3" data-aos="fade-up" data-aos-delay="100">Para sua motivação</h4>
-
-                         <div class="quote" data-aos="fade-up" data-aos-delay="200"></div>
-
-                         <h2 class="mb-4" data-aos="fade-up" data-aos-delay="300">Para o propósito, existe um processo,
-                              sendo doloroso ou não, ele te fará vencer, sendo que o Sucesso é o acûmulo de pequenos
-                              esforços repetidos dia a dia.</h2>
-
-                         <p data-aos="fade-up" data-aos-delay="400">
-                              <strong>The life</strong>
-
-                              <span class="mx-1">/</span>
-
-                              <small>Agência vivencial de todo o mundo.</small>
-                         </p>
-                    </div>
-
-               </div>
-          </div>
-     </section>
- -->
 
      <footer class="site-footer">
           <div class="container" id="footer">
