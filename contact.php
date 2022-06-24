@@ -91,7 +91,7 @@ https://templatemo.com/tm-538-digital-trend
                       <form action="salvar.php" method="post" class="contact-form" data-aos="fade-up" data-aos-delay="300" role="form">
                         <div class="row">
                           <div class="col-lg-6 col-12">
-                            <input type="text" class="form-control" name="name" placeholder="Name" required>
+                            <input type="text" class="form-control" name="nome" placeholder="Name" required>
                           </div>
 
                           <div class="col-lg-6 col-12">

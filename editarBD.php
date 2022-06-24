@@ -19,7 +19,17 @@
 
     if (isset($_POST['editar'])){
         $id = $_GET["id"];
-        $nome = $_POST['nome'];
-    }
+        $nome = $_POST["nome"];
+        $email = $_POST["email"];
+        $senha = $_POST["senha"];
+        $datas = $_POST["datinha"];
+        /* $tipo =  $_POST["tipo"]; */
+        $consultaatualizar = "UPDATE tabela SET nome = '$nome' , email = '$email' , senha = '$senha' , datinha = '$datas' WHERE id = $id ";
 
+        $inserirbanco = mysqli_query($conexaobd , $consultaatualizar);
+
+        header('location: tabela.php');
+    }
+    
+    // Pão
 ?>

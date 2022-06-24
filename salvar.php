@@ -2,7 +2,7 @@
     include 'conexao.php';
    
     
-  $nome = $_POST["name"];
+  $nome = $_POST["nome"];
   $email = $_POST["email"];
   $senha = $_POST["senha"];
   $datas = $_POST["datinha"];
