@@ -53,7 +53,7 @@ https://templatemo.com/tm-538-digital-trend
                               <a href="#footer" class="nav-link smoothScroll">Sobre</a>
                          </li>
                          <li class="nav-item">
-                              <a href="blog.html" class="nav-link">Conheça Melhor</a>
+                              <a href="blogKnow.html" class="nav-link">Conheça Melhor</a>
                          </li>
                          <li class="nav-item">
                               <a href="contact.php" class="nav-link contact">Contact</a>
@@ -141,7 +141,7 @@ https://templatemo.com/tm-538-digital-trend
 
                          <div class="owl-carousel owl-theme" id="project-slide">
                               <div class="item project-wrapper" data-aos="fade-up" data-aos-delay="100">
-                                   <img src="images/project/lg.jpg" class="img-fluid" alt="project image">
+                                   <img src="images/img-project/ling.jpg" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Matérias</small>
@@ -173,7 +173,7 @@ https://templatemo.com/tm-538-digital-trend
  -->
 
                               <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/nature.jpg" class="img-fluid" alt="project image">
+                                   <img src="images/img-project/nature.jpg" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Matérias</small>
@@ -188,7 +188,7 @@ https://templatemo.com/tm-538-digital-trend
                               </div>
 
                               <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/human.jpg" class="img-fluid" alt="project image">
+                                   <img src="images/img-project/human.jpg" class="img-fluid" alt="project image">
 
 
                                    <div class="project-info">

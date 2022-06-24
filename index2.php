@@ -147,7 +147,7 @@ https://templatemo.com/tm-538-digital-trend
 
                          <div class="owl-carousel owl-theme" id="project-slide">
                               <div class="item project-wrapper" data-aos="fade-up" data-aos-delay="100">
-                                   <img src="images/project/lg.jpg" class="img-fluid" alt="project image">
+                                   <img src="images/img-project/ling.jpg" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Matérias</small>
@@ -162,7 +162,7 @@ https://templatemo.com/tm-538-digital-trend
                               </div>
 
                               <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/nature.jpg" class="img-fluid" alt="project image">
+                                   <img src="images/img-project/nature.jpg" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Matérias</small>
@@ -177,7 +177,7 @@ https://templatemo.com/tm-538-digital-trend
                               </div>
 
                               <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/human.jpg" class="img-fluid" alt="project image">
+                                   <img src="images/img-project/human.jpg" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Matérias</small>
