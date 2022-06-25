@@ -1,3 +1,20 @@
+<?
+    $nome = $_POST['admin'];
+    $pass = $_POST['senha'];
+    $entrar = $_POST['entrar'];
+
+    if ($entrar) {
+        if($nome = 'admin'){
+          header('location: tabela.php');
+        }else {
+            header('location: index2.php');
+        }
+        }
+    
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -117,14 +134,17 @@
         </div>
     
 
-    <form>
+    <form action="LoginADMIN.php" method="post">
         <h3>Login ADMIN</h3><br>
-        <input type="text" class="form-control" placeholder="Usuário" aria-label="Usuário">
-        <input type="password" class="form-control" nome="senha" placeholder="Senha" /><br>
+        <input type="text" class="form-control" placeholder="Usuário" aria-label="Usuário" name="admin">
+        <input type="password" class="form-control" nome="senha" placeholder="Senha" name="senha"/><br>
         <div class="div">
-            <a class="a" href="tabela.php">Entrar</a>
+            <a class="a" type="submit" href="" name="entrar" >Entrar</a>
         </div>
         </form>
+
+
+        <script src="admin.js"></script>
 
 </body>
 

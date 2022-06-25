@@ -32,6 +32,7 @@ https://templatemo.com/tm-538-digital-trend
      <link rel="stylesheet" href="css/aos.css">
      <link rel="stylesheet" href="css/owl.carousel.min.css">
      <link rel="stylesheet" href="css/owl.theme.default.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
      <!-- MAIN CSS -->
      <link rel="stylesheet" href="css/templatemo-digital-trend.css">
@@ -107,7 +108,7 @@ https://templatemo.com/tm-538-digital-trend
                     </thead>
 
                     <?php while ($usuario = mysqli_fetch_assoc($listar)) { ?>
-                         <tbody id="myTable">
+                         <tbody id="tabela">
                               <tr>
                                    <th scope="row"><?php echo $usuario['id']; ?></th>
                                    <td><?php echo $usuario['nome']; ?></td>
@@ -131,7 +132,7 @@ https://templatemo.com/tm-538-digital-trend
      <script src="js/aos.js"></script>
      <script src="js/owl.carousel.min.js"></script>
      <script src="js/smoothscroll.js"></script>
-     <script src="js/custom.js"></script>
+     <script src="tabela.js"></script>
 
 </body>
 
