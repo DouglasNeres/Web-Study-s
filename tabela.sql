@@ -1,3 +1,12 @@
+-- phpMyAdmin SQL Dump
+-- version 5.1.3
+-- https://www.phpmyadmin.net/
+--
+-- Host: 127.0.0.1
+-- Tempo de geração: 25-Jun-2022 às 02:32
+-- Versão do servidor: 10.4.24-MariaDB
+-- versão do PHP: 8.1.5
+
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
@@ -25,9 +34,13 @@ CREATE TABLE `tabela` (
 --
 
 INSERT INTO `tabela` (`id`, `nome`, `email`, `datinha`, `senha`) VALUES
-(196, 'Mairton Rodrigues', 'allerhandrolucas@gmail.com', '2001-07-08', 'gfhghf'),
-(197, 'pipococomeno', 'dc7911010@gmail.com', '2001-08-08', 'asasasa'),
-(198, 'golfinhodeglock', 'cavalo123@gmail.com', '1500-02-12', 'cleito123');
+(199, 'Cavalãozin', 'Ratinhoo777@gmail.com', '2007-07-07', 'EuSouOMilior'),
+(201, 'Aluno EEEP MANOEL MA', 'alunocemm@gmail.com', '2004-12-20', 'aluno123eeep'),
+(202, 'Adeilson', 'alunocemm@gmail.com', '2004-12-20', 'aluno123eeep'),
+(203, 'Adeilson Aragão ', 'adeilsoara@gmail.com', '1997-12-17', 'amoJustinBaby'),
+(204, 'Douglas Neres', 'douglasobomba@gmail.com', '2005-04-06', 'muitoLindo'),
+(205, 'Pedro Henrique', 'pedrohenriquearaujosoares25@gmail.com', '2002-02-19', 'cachinhosSim'),
+(206, 'Mairton Rodrigues', 'mairtoC@gmail.com', '2006-07-09', 'eleGostaa');
 
 --
 -- Índices para tabelas despejadas
@@ -47,5 +60,5 @@ ALTER TABLE `tabela`
 -- AUTO_INCREMENT de tabela `tabela`
 --
 ALTER TABLE `tabela`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=199;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=207;
 COMMIT;
