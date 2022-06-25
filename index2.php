@@ -101,39 +101,6 @@ https://templatemo.com/tm-538-digital-trend
      </section>
 
 
-     <!-- ABOUT -->
-<!--      <section class="about section-padding pb-0" id="about">
-          <div class="container">
-               <div class="row">
-
-                    <div class="col-lg-7 mx-auto col-md-10 col-12">
-                         <div class="about-info">
-
-                              <h2 class="mb-4" data-aos="fade-up">O melhor <strong> Site de estudos</strong> para
-                                   seus conhecimentos</h2>
-
-                              <p class="mb-0" data-aos="fade-up">Você nunca sabe que resultados virão da sua ação. Mas
-                                   se você não fizer nada, <u>não existirão.</u> É melhor você tentar algo, vê-lo não
-                                   funcionar
-                                   e aprender com isso, do que não fazer nada. A possibilidade de realizarmos um sonho é
-                                   o que torna a vida interessante.
-                                   <br><br>Você pode <strong>garantir</strong> a melhor experiência e usualidade que um
-                                   estudante sonha em ter para seu aprofundamento nos estudos e bons resultados.
-                              </p>
-                         </div>
-
-                         <div class="about-image" data-aos="fade-up" data-aos-delay="200">
-
-                              <img src="images/office.png" class="img-fluid" alt="office">
-                         </div>
-                    </div>
-
-               </div>
-          </div>
-     </section>
-
- -->
-     <!-- PROJECT -->
      <section class="project section-padding" id="project">
           <div class="container-fluid">
                <div class="row">
