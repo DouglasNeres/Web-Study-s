@@ -62,7 +62,7 @@ https://templatemo.com/tm-538-digital-trend
                               <a href="blogKnow.html" class="nav-link">Conheça Melhor</a>
                          </li>
                          <li class="nav-item">
-                              <a href="tabela.php" class="nav-link contact">Painel ADMIN</a>
+                              <a href="LoginADMIN.html" class="nav-link contact">Painel ADMIN</a>
                          </li>
                     </ul>
                </div>
