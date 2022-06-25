@@ -1,8 +1,17 @@
-var user = document.getElementById('admin').value
-var pass = document.getElementById('senha').value
+let inp = document.querySelector('#usuario');
+let form = document.querySelector('form');
+var pass = document.getElementById('#senha')
 
-if (user == 'admin') {
-    window.location.href = 'tabela.php';
-}else{
-    window.location.href = "http://pt.stackoverflow.com";
+
+let con = '';
+
+function enviar() {
+  if(inp.value != con){
+
+  } 
+  if(inp.value === "admin"){
+    window.location.assign("tabela.php");
+  }
 }
+
+setInterval(enviar, 5000); 
