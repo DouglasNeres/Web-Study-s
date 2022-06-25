@@ -11,7 +11,7 @@
   $salvar = mysqli_query($conexaobd , "INSERT INTO tabela(nome , email , senha , datinha ) VALUES('$nome' ,'$email', '$senha' , '$datas')");
 
   if ($salvar) {
-    if($tipo == 'admin'){
+    if($nome === 'admin'){
       header('location: admin.php');
     }else {
 		  header('location: index2.php');

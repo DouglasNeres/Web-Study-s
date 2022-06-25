@@ -72,6 +72,7 @@ https://templatemo.com/tm-538-digital-trend
      </nav>
 
      Procure:<input id="myInput" type="text" placeholder="Search...">
+     
   <table class="table table-success table-striped">
     <thead>
       <tr>
