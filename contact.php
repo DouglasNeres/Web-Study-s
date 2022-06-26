@@ -103,7 +103,7 @@ https://templatemo.com/tm-538-digital-trend
                           </div>
                           <div class="col-lg-6 col-12">
                             
-                          <input type="date" class="form-control" name="datinha">
+                          <input type="date" class="form-control" name="datinha" placeholder="Nascimento">
                           </div>
                           <!-- <div class="col-lg-12 col-12">
                             <textarea class="form-control" rows="6" name="message" placeholder="Message"></textarea>

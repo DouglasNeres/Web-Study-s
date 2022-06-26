@@ -53,7 +53,7 @@ https://templatemo.com/tm-538-digital-trend
                               <a href="#footer" class="nav-link smoothScroll">Sobre</a>
                          </li>
                          <li class="nav-item">
-                              <a href="blogKnow.html" class="nav-link">Conheça Melhor</a>
+                              <a href="blogKnow02.html" class="nav-link">Conheça Melhor</a>
                          </li>
                          <li class="nav-item">
                               <a href="contact.php" class="nav-link contact">Contact</a>
