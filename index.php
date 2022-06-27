@@ -56,7 +56,7 @@ https://templatemo.com/tm-538-digital-trend
                               <a href="blogKnow02.html" class="nav-link">Conheça Melhor</a>
                          </li>
                          <li class="nav-item">
-                              <a href="contact.php" class="nav-link contact">Contact</a>
+                              <a href="contact.php" class="nav-link contact">Cadastro</a>
                          </li>
                     </ul>
                </div>
@@ -128,13 +128,13 @@ https://templatemo.com/tm-538-digital-trend
 
 
      <!-- PROJECT -->
-     <section class="project section-padding" id="project">
+     <section class="project section-padding" >
           <div class="container-fluid">
                <div class="row">
 
-                    <div class="col-lg-12 col-12">
+                    <div class="col-lg-12 col-12" id="project">
 
-                         <h2 class="mb-5 text-center" data-aos="fade-up">
+                         <h2 class="mb-5 text-center" data-aos="fade-up" >
                               Acesse as matérias correspondentes a
                               <strong>sua necessidade</strong>
                          </h2>
@@ -262,7 +262,8 @@ https://templatemo.com/tm-538-digital-trend
                          </p>
 
                          <p>
-                              <a href="https://mail.google.com/mail/u/0/#inbox">
+                              <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"
+                                   rel="noopener noreferrer">
                                    <i class="fa fa-envelope mr-2 footer-icon"></i>
                                    Curlys@dev.com
                               </a>

@@ -101,11 +101,11 @@ https://templatemo.com/tm-538-digital-trend
      </section>
 
 
-     <section class="project section-padding" id="project">
+     <section class="project section-padding" >
           <div class="container-fluid">
                <div class="row">
 
-                    <div class="col-lg-12 col-12">
+                    <div class="col-lg-12 col-12" id="project">
 
                          <h2 class="mb-5 text-center" data-aos="fade-up">
                               Acesse as matérias correspondentes a
@@ -136,7 +136,7 @@ https://templatemo.com/tm-538-digital-trend
 
                                         <h3>
                                              <a href="blogNatureza.html">
-                                                  <span>CIÊNCIAS DA NATUREZA</span>
+                                                  <span>CIÊNCIAS EXATAS</span>
                                                   <i class="fa fa-angle-right project-icon"></i>
                                              </a>
                                         </h3>
@@ -181,7 +181,8 @@ https://templatemo.com/tm-538-digital-trend
                          </p>
 
                          <p>
-                              <a href="https://mail.google.com/mail/u/0/#inbox">
+                              <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"
+                                   rel="noopener noreferrer">
                                    <i class="fa fa-envelope mr-2 footer-icon"></i>
                                    Curlys@dev.com
                               </a>

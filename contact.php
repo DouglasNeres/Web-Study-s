@@ -52,13 +52,13 @@ https://templatemo.com/tm-538-digital-trend
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="index.html#project" class="nav-link">Matérias</a>
+                        <a href="index.php#project" class="nav-link">Matérias</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.html#footer" class="nav-link">Sobre</a>
+                        <a href="index.php#footer" class="nav-link">Sobre</a>
                     </li>
                     <li class="nav-item">
-                        <a href="blogKnow.html" class="nav-link">Conheça Melhor</a>
+                        <a href="blogKnow02.html" class="nav-link">Conheça Melhor</a>
                     </li>
                     <li class="nav-item">
                         <a href="contact.php" class="nav-link active contact">Contact</a>
@@ -103,7 +103,7 @@ https://templatemo.com/tm-538-digital-trend
                           </div>
                           <div class="col-lg-6 col-12">
                             
-                          <input type="date" class="form-control" name="datinha" placeholder="Nascimento">
+                          <input type="date" class="form-control" name="datinha" placeholder="Nascimento" required>
                           </div>
                           <!-- <div class="col-lg-12 col-12">
                             <textarea class="form-control" rows="6" name="message" placeholder="Message"></textarea>
