@@ -1,4 +1,6 @@
-let inp = document.querySelector('#usuario');
+/**NÃO USADO**/
+
+/* let inp = document.querySelector('#usuario');
 let form = document.querySelector('form');
 var pass = document.getElementById('#senha')
 
@@ -15,4 +17,4 @@ function enviar() {
 }
 
 setInterval(enviar, 5000); 
- 
+  */
