@@ -14,3 +14,6 @@ Além da parte visual vista primeiramente, o usuário não tem acesso aos materi
 
 * CONCLUSÃO: 
 Em cada blog de matéria existe uma parte para escrita de recomendações a serem feitas, para que ao recebermos possamos ter a possibilidades de visualização de melhorias. E nos projects de matéria existem tópicos com PDF's disponíveis para dowload, vídeos de conteúdos semanais com descrições. Tudo para trazer a melhor experiência e usualidade.
+
+Participantes:
+Douglas, Pedro Henrique, Mairton, Sara, Lunna
